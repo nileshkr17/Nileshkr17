@@ -7,5 +7,5 @@ Here are some ideas to get you started:
 - 🤔 I’m looking for help with Data Structures and Algo
 - 📫 How to reach me: [Gmail]{nileshkr1706@gmail.com} [site]{https://nileshkr17.github.io/nileshkr/}
 
-<p>https://github-readme-stats.vercel.app/api?username=nileshkr17&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515</p>
+<p><img align="left" src"https://github-readme-stats.vercel.app/api?username=nileshkr17&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515"alt="nileshkr17"</p>
 
