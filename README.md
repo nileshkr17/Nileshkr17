@@ -1,6 +1,5 @@
                                                                 ### Hi there 👋
 
-Here are some ideas to get you started:
 
 - 🔭 I’m currently working on [SITHUB] --{https://github.com/Abhinavkar/SITHUB}--  & Wireless Communication For Everyone
 - 🌱 I’m currently learning Data Structures and Algorithms
@@ -13,11 +12,8 @@ Here are some ideas to get you started:
     <img title="" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=nileshkr17&theme=monokai-metallian&hide_border=true"/>
   </a>
   
-</p>
 
 
 
-
-<!---
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=nileshkr17&&show_icons=true&title_color=ffffff&icon_color=bb2acf&text_color=daf7dc&bg_color=151515" alt="" /></p>
