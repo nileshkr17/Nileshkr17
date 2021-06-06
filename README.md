@@ -10,7 +10,7 @@ Here are some ideas to get you started:
 <!-- GitHub Readme Streak Stats - https://github.com/nileshkr17/github-readme-streak-stats -->
 <p align="center">
   <a href="https://github.com/DenverCoder1/github-readme-streak-stats">
-    <img title="🔥 Get streak stats for your profile at git.io/streak-stats" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=nileshkr17&theme=monokai-metallian&hide_border=true"/>
+    <img title="" alt="" src="https://github-readme-streak-stats.herokuapp.com/?user=nileshkr17&theme=monokai-metallian&hide_border=true"/>
   </a>
   
 </p>
