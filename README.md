@@ -6,7 +6,7 @@
 
 - 🌱 I’m currently learning Data Structures and Algorithms
 - 🤔 I’m looking for help with Data Structures and Algo
-- 📫 How to reach me: [site]{https://nileshkr17.github.io/nileshkr/}
+- 📫 How to reach me : [site]{https://nileshkr17.github.io/nileshkr/}
 
 <!-- GitHub Readme Streak Stats - https://github.com/nileshkr17/github-readme-streak-stats -->
 <p align="left">
