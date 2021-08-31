@@ -1,5 +1,5 @@
                                                       ### Hi there 👋
-                                                      <p aling ="center'><img title="" alt="" src="https://i.pinimg.com/originals/d4/ab/4d/d4ab4d75c61f4e4d494c59400d005281.jpg"/>
+                                                      <p align ="center'><img title="" alt="" src="https://i.pinimg.com/originals/d4/ab/4d/d4ab4d75c61f4e4d494c59400d005281.jpg"/>
                                                      
 
 
