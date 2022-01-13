@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm NILESH</h1>
-![](https://github.com/nileshkr17/Nileshkr17/blob/main/Nimlesh%20Git.gif)
+![](https://github.com/nileshkr17/Nileshkr17/blob/9ffe984309909975198fb9d5893de5b9ae3e7a21/Nimlesh%20Git.gif)
 <h3 align="center">A passionate frontend developer from India, Pursuing Bachelor`s in Computer Science & Technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nileshkr17&label=Profile%20views&color=0e75b6&style=flat" alt="nileshkr17" /> </p>
