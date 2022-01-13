@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm NILESH</h1>
-![][https://imgur.com/G7rE8Ya]
+![]<blockquote class="imgur-embed-pub" lang="en" data-id="a/p0ISlbQ" data-context="false" ><a href="//imgur.com/a/p0ISlbQ"></a></blockquote><script async src="//s.imgur.com/min/embed.js" charset="utf-8"></script>
 <h3 align="center">A passionate frontend developer from India, Pursuing Bachelor`s in Computer Science & Technology.</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=nileshkr17&label=Profile%20views&color=0e75b6&style=flat" alt="nileshkr17" /> </p>
