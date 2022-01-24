@@ -27,4 +27,4 @@
 <br>
 <br>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=nileshkr17&" alt="nileshkr17" /></p>
+<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=nileshkr17&" alt="nileshkr17" /></p>
