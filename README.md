@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋</h1>
-<center><img src="https://github.com/nileshkr17/Nileshkr17/blob/main/Nilesh.gif" align="center" width=900px height=300px></center>
+<!-- <center><img src="https://github.com/nileshkr17/Nileshkr17/blob/main/Nilesh.gif" align="center" width=900px height=300px></center> -->
 <h3 align="center">A passionate frontend developer from India, Pursuing Bachelor`s in Computer Science & Technology.</h3>
 
 
