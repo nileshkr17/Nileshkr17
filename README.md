@@ -2,9 +2,7 @@
 <center><img src="https://github.com/nileshkr17/Nileshkr17/blob/main/Nilesh.gif" align="center" width=900px height=300px></center>
 <h3 align="center">A passionate frontend developer from India, Pursuing Bachelor`s in Computer Science & Technology.</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=nileshkr17&label=Profile%20views&color=0e75b6&style=flat" alt="nileshkr17" /> </p>
 
-- 👨‍💻 All of my projects are available at [https://nileshkr17.github.io/nileshkr/](https://nileshkr17.github.io/nileshkr/)
 
 - 📫 How to reach me **nileshkr1706@gmail.com**
 
@@ -32,3 +30,4 @@
 
 <h3 align="center">Support:</h3>
 <p><a href="https://www.buymeacoffee.com/nileshkr17"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nileshkr17" /></a></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=nileshkr17&label=Profile%20views&color=0e75b6&style=flat" alt="nileshkr17" /> </p>
