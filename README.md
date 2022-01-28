@@ -1,4 +1,4 @@
-# 👋</h1> Hey ! I am Nilesh ! <img src="https://thumbs.gfycat.com/YoungWeakCanadagoose-max-1mb.gif" width="30px">
+# 👋 Hey ! I am Nilesh ! <img src="https://thumbs.gfycat.com/YoungWeakCanadagoose-max-1mb.gif" width="30px">
 <!-- <center><img src="https://github.com/nileshkr17/Nileshkr17/blob/main/Nilesh.gif" align="center" width=900px height=300px></center> -->
 <h3 align="center">A passionate frontend developer from India, Pursuing Bachelor`s in Computer Science & Technology.</h3>
 
