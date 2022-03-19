@@ -6,7 +6,7 @@
 
 - 📫 How to reach me **nileshkr1706@gmail.com**
 
-- 📄 Know about my experiences [https://www.linkedin.com/in/nilesh-275139204/](https://www.linkedin.com/in/nilesh-275139204/)
+
 
 - ⚡ Fun fact **I know something about everything**
 
