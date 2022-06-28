@@ -1,43 +1,111 @@
-# 👋 Hey ! I am Nilesh !
-<!-- <center><img src="https://github.com/nileshkr17/Nileshkr17/blob/main/Nilesh.gif" align="center" width=900px height=300px></center> -->
-<h3 align="center">A passionate frontend developer from India, Pursuing Bachelor`s in Computer Science & Technology.</h3>
 
- 
+
+
+<h1 align="center"> Namaste 🙏🏻 , I'm Nilesh <img src="https://raw.githubusercontent.com/ABSphreak/ABSphreak/master/gifs/Hi.gif" width="30px"> ! </h1>
+<!-- <img src="https://user-images.githubusercontent.com/54361799/108709847-4409a300-7539-11eb-8481-274ec80833a1.png" style='margin-right:"1200px";margin-left:250px;'/> -->
+<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
+
+
+## 💡 Connect with me :
+<p align="left"> 
+<a href="https://twitter.com/Harikrushn9" target="blank"><img src="https://img.shields.io/twitter/follow/Harikrushn9?logo=twitter&style=for-the-badge" alt="Harikrushn9" /></a>&nbsp
+<a href="https://www.linkedin.com/in/harikrushn-kanani"><img src="https://img.shields.io/badge/-Harikrushn%20Kanani-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>&nbsp
+<a href="http:/nileshkr17.github.io/PortfolioV2" target="_blank"><img src="https://img.shields.io/website?label=nileshkr17.github.io&style=for-the-badge&up_color=9FEF00&url=https%3A%2F%nileshkr17.github.io" alt="nileshkr17.github.io" /></a>&nbsp
+   <a href="mailto:nileshkr1706@gmail.com">
+    <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:nileshkr1706@gmail.com" />
+  </a>
+</p>
+
+<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+
+<h3> 🧑 I'm a Programmer & Developer!!</h3>
+
+- 🔭 I’m currently working on [InstaPyBot](https://github.com/harikanani/AutomateInstaPyBot)
+
+- 🌱 I’m currently learning **Everything 🤣**
+
+- 💬 Ask me about **Python,JavaScript,Node.Js**
 
 - 📫 How to reach me **nileshkr1706@gmail.com**
 
+- 📄 Know about my experiences [(https://www.linkedin.com/in/nilesh-275139204/)](https://www.linkedin.com/in/nilesh-275139204/)
 
+- ⚡ Fun fact **I love to code**
 
-- ⚡ Fun fact **I know something about everything**
-
-<h3 align="center">Connect with me:</h3>
-<p align="center">
-<a href="https://medium.com/@nileshkr" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@nileshkr" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/iamnileshsum" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="iamnileshsum" height="30" width="40" /></a>
+## 🌐 Languages and Tools :
+<p align="left">
+    <a href="https://www.javascript.com/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/javascript/javascript-original.svg" alt="JavaScript" width="50" height="50"/></code> 
+    </a> 
+       <a href="https://reactjs.org/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/react/react-original.svg" alt="ReactJS" width="50" height="50"/></code> 
+    </a> 
+        <a href="https://nodejs.org/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/nodejs/nodejs-original.svg" alt="NodeJS" width="50" height="50"/></code> 
+    </a> 
+        <a href="https://www.npmjs.com/package/express" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/express/express-original-wordmark.svg" alt="Express JS" width="50" height="50"/></code> 
+    </a> 
+        <a href="https://www.npmjs.com/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/npm/npm-original-wordmark.svg" alt="NPM" width="50" height="50"/></code> 
+    </a> 
+        
+    <a href="https://www.python.org/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/python/python-original.svg" alt="python" width="50" height="50"/></code> 
+    </a> 
+    <a href="https://devdocs.io/c/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/c/c-original.svg" alt="c" width="50" height="50"/></code> 
+ </a>
+    <a href="https://www.java.com/en/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/java/java-original.svg" alt="c++" width="50" height="50"/></code> 
+    </a>
+   <a href="https://getbootstrap.com/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/bootstrap/bootstrap-plain.svg" alt="bootsrap" width="50" height="50"/></code> 
+    </a>   
+    <a href="https://flask.palletsprojects.com/en/1.1.x/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/flask/flask-original.svg" alt="flask" width="50" height="50"/></code> 
+    </a>
+    <a href="https://www.heroku.com/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/heroku/heroku-original.svg" alt="heroku" width="50" height="50"/></code> 
+    </a> 
+    <a href="https://git-scm.com/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/git/git-original.svg" alt="git" width="50" height="50"/></code> 
+    </a> 
+    <a href="https://github.com/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/github/github-original.svg" alt="github" width="50" height="50"/></code> 
+    </a> 
+    
+    <a href="https://gitlab.org/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/gitlab/gitlab-original.svg" alt="BitBucket" width="50" height="50"/></code> 
+    </a> 
+    <a href="https://www.mongodb.com/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/mongodb/mongodb-original.svg" alt="mongodb" width="50" height="50"/></code> 
+    </a> 
+    <a href="https://www.postgresql.org/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/></code> 
+    </a> 
+    <a href="https://www.mysql.com/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/></code> 
+    </a> 
+    <a href="https://postman.com" target="_blank"> 
+        <code><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"" alt="postman" width="50" height="50"/></code> 
+    </a> 
+ 
+    <a href="https://www.android.com/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/android/android-original.svg" alt="android" width="50" height="50"/></code> 
+    </a>
+    <a href="https://ubuntu.com/" target="_blank"> 
+        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="50" height="50"/></code> 
+    </a>
 </p>
-<h3 align="center">Languages and Tools:</h3>
-<p align="center"> <a href="https://www.w3schools.com/cpp/" target="_blank" rel="noreferrer"> 
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/> </a> 
-  <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/django/django-original.svg" alt="django" width="40" height="40"/> </a> <a href="https://firebase.google.com/" target="_blank" rel="noreferrer"> 
-  <img src="https://www.vectorlogo.zone/logos/firebase/firebase-icon.svg" alt="firebase" width="40" height="40"/> </a> <a href="https://cloud.google.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" alt="gcp" width="40" height="40"/> </a> <a href="https://git-scm.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="git" width="40" height="40"/> </a> <a href="https://www.java.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/> </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"> 
-    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" alt="javascript" width="40" height="40"/> </a> 
-  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a> <a href="https://nodejs.org" target="_blank" rel="noreferrer"> 
-  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original-wordmark.svg" alt="nodejs" width="40" height="40"/> </a> 
-  <a href="https://postman.com" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg" alt="postman" width="40" height="40"/> </a> </p>
 
-<p align="center"><img  src="https://github-readme-streak-stats.herokuapp.com/?user=nileshkr17&" alt="nileshkr17" /></p>
-<br><br>
+## ✨GitHub Stats  : 
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nileshkr17&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nileshkr17&theme=tokyonight" />
+</div>
 
-<!--
+<br/>  
 
-<p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api?username=nileshkr17&show_icons=true&locale=en" alt="nileshkr17" /></p>
---->
-<br>
-<br>
+![Nilesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=nileshkr17&theme=nord) 
 
-<h3 align="center">Support:</h3>
-<p align="center"><a href="https://www.buymeacoffee.com/nileshkr17"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="nileshkr17" /></a></p>
-<br>
-
-<p align="left"> <img src=" https://komarev.com/ghpvc/?username=nileshkr17&label=Profile%20views&color=0e75b6&style=flat" alt="nileshkr17" /> </p>
