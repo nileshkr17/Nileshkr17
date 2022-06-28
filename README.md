@@ -6,17 +6,7 @@
 <img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
 
 
-## 💡 Connect with me :
-<p align="left"> 
-<a href="https://twitter.com/Harikrushn9" target="blank"><img src="https://img.shields.io/twitter/follow/Harikrushn9?logo=twitter&style=for-the-badge" alt="Harikrushn9" /></a>&nbsp
-<a href="https://www.linkedin.com/in/harikrushn-kanani"><img src="https://img.shields.io/badge/-Harikrushn%20Kanani-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>&nbsp
-<a href="http:/nileshkr17.github.io/PortfolioV2" target="_blank"><img src="https://img.shields.io/website?label=nileshkr17.github.io&style=for-the-badge&up_color=9FEF00&url=https%3A%2F%nileshkr17.github.io" alt="nileshkr17.github.io" /></a>&nbsp
-   <a href="mailto:nileshkr1706@gmail.com">
-    <img src="https://img.shields.io/badge/-Gmail-c14438?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:nileshkr1706@gmail.com" />
-  </a>
-</p>
-
-<img width="50%" align="right" alt="Github Image" src="https://raw.githubusercontent.com/onimur/.github/master/.resources/git-header.svg" />
+<hr>
 
 <h3> 🧑 I'm a Programmer & Developer!!</h3>
 
@@ -50,13 +40,7 @@
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/npm/npm-original-wordmark.svg" alt="NPM" width="50" height="50"/></code> 
     </a> 
         
-    <a href="https://www.python.org/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/python/python-original.svg" alt="python" width="50" height="50"/></code> 
-    </a> 
-    <a href="https://devdocs.io/c/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/c/c-original.svg" alt="c" width="50" height="50"/></code> 
- </a>
-    <a href="https://www.java.com/en/" target="_blank"> 
+   <a href="https://www.java.com/en/" target="_blank"> 
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/java/java-original.svg" alt="c++" width="50" height="50"/></code> 
     </a>
    <a href="https://getbootstrap.com/" target="_blank"> 
@@ -75,30 +59,7 @@
         <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/github/github-original.svg" alt="github" width="50" height="50"/></code> 
     </a> 
     
-    <a href="https://gitlab.org/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/gitlab/gitlab-original.svg" alt="BitBucket" width="50" height="50"/></code> 
-    </a> 
-    <a href="https://www.mongodb.com/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/mongodb/mongodb-original.svg" alt="mongodb" width="50" height="50"/></code> 
-    </a> 
-    <a href="https://www.postgresql.org/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="50" height="50"/></code> 
-    </a> 
-    <a href="https://www.mysql.com/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="50" height="50"/></code> 
-    </a> 
-    <a href="https://postman.com" target="_blank"> 
-        <code><img src="https://www.vectorlogo.zone/logos/getpostman/getpostman-icon.svg"" alt="postman" width="50" height="50"/></code> 
-    </a> 
- 
-    <a href="https://www.android.com/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/android/android-original.svg" alt="android" width="50" height="50"/></code> 
-    </a>
-    <a href="https://ubuntu.com/" target="_blank"> 
-        <code><img src="https://raw.githubusercontent.com/devicons/devicon/2809b567852a4648062a2d3e7c1c531367458c0b/icons/ubuntu/ubuntu-plain.svg" alt="ubuntu" width="50" height="50"/></code> 
-    </a>
-</p>
-
+    
 ## ✨GitHub Stats  : 
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nileshkr17&show_icons=true&theme=tokyonight" />
