@@ -62,8 +62,9 @@
     
 ## ✨GitHub Stats  : 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nileshkr17&show_icons=true&theme=tokyonight" />
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nileshkr17" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nileshkr17&theme=tokyonight" />
+  [![Top Langs]<img width="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nileshkr17"/>
 </div>
 
 <br/>  
