@@ -64,7 +64,7 @@
 <div align="center">
   <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nileshkr17" />
   <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nileshkr17&theme=tokyonight" />
-  [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=nileshkr17&layout=compact)](https://github.com/nileshkr17/github-readme-stats)
+  [![Top Langs] <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nileshkr17&layout=compact" />
 </div>
 
 <br/>  
