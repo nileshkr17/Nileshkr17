@@ -7,6 +7,10 @@
 
 
 <hr>
+<!--
+A self-taught geek developer and builder in full-stack web development, open-source enthusiast, and content-writer. I work in Javascript, with frontend and backend tools proficient in MERN stack, created various projects using these tools, and also contributed to open-source projects. I highly drive myself to bring quality, interactive, and user-friendly applications with optimal solutions. The learning curve is always high and dedicated to technology for upskilling.
+-->
+💫About Me :
 
 <h3> 🧑 I'm a Programmer & Developer!!</h3>
 
