@@ -22,7 +22,7 @@ A self-taught geek developer and builder in full-stack web development, open-sou
 
 - 📫 How to reach me **nileshkr1706@gmail.com**
 
-- 📄 Know about my experiences [(https://www.linkedin.com/in/nilesh-275139204/)](https://www.linkedin.com/in/nilesh-275139204/)
+- 📄 Know about my experiences [Linkedin](https://www.linkedin.com/in/nileshkr17/)
 
 - ⚡ Fun fact **I love to code**
 
