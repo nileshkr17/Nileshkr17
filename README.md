@@ -3,7 +3,8 @@
 
 <h1 align="center"> Namaste 🙏🏻 , I'm Nilesh  ! </h1>
 <!-- <img src="https://user-images.githubusercontent.com/54361799/108709847-4409a300-7539-11eb-8481-274ec80833a1.png" style='margin-right:"1200px";margin-left:250px;'/> -->
-<img src="https://raw.githubusercontent.com/halfrost/halfrost/master/icons/header_.png"/>
+
+![header_](https://github.com/nileshkr17/Nileshkr17/assets/77370375/42af13ac-f3ac-45c2-974e-63d1c842c04d)
 
 
 <hr>
