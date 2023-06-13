@@ -73,5 +73,5 @@ A self-taught geek developer and builder in full-stack web development, open-sou
 
 <br/>  
 
-![Nilesh's github activity graph](https://activity-graph.herokuapp.com/graph?username=nileshkr17&theme=nord) 
+\
 
