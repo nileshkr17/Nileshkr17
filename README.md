@@ -33,7 +33,7 @@ M.Tech Software Engineering, BITS Pilani (2026).
 
 ### Work
 
-**SAP** — Backend Engineer, Scholar Program &nbsp;`2024 – present`
+**SAP** — Backend Engineer, &nbsp;`2024 – present`
 
 Identity infrastructure across SuccessFactors Recruiting and CX Sales Cloud. Zero-trust auth systems, Kafka-driven sync pipelines, multi-tenant microservices. OAuth 2.0, JWT, RBAC, MFA, SAP Customer Data Cloud.
 
