@@ -1,101 +1,71 @@
-<h1 align="center">Namaste 🙏🏻, I'm Nilesh</h1>
+
+
+<h3 align="center">Nilesh</h3>
 
 <p align="center">
   <img src="https://github.com/nileshkr17/Nileshkr17/assets/77370375/42af13ac-f3ac-45c2-974e-63d1c842c04d" alt="Header Image" />
 </p>
 
 <p align="center">
-  <b>Full Stack Developer Scholar @ SAP • Backend Specialist • SaaS Builder</b><br/>
-  <i>Designing reliable backends, scaling SaaS, and building products people actually use.</i>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=18&pause=1000&color=0AA9FF&center=true&vCenter=true&width=500&lines=Backend+Engineer+%40+SAP;Distributed+Systems+%7C+Auth+%7C+Kafka;Building+DocLib+%E2%80%94+offline+PDF+SaaS" alt="Typing SVG" />
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=nileshkr17&style=flat-square&color=0aa9ff" alt="Profile Views" />
-  <a href="https://github.com/nileshkr17?tab=followers">
-    <img alt="GitHub Followers" src="https://img.shields.io/github/followers/nileshkr17?style=flat-square&color=0aa9ff">
-  </a>
-  <img alt="Hacktoberfest" src="https://img.shields.io/badge/Hacktoberfest-Friendly-%23FF8AE2?style=flat-square">
+  Backend Engineer · SAP &nbsp;|&nbsp; Distributed Systems · Auth · Kafka &nbsp;|&nbsp; Bengaluru
 </p>
 
-<hr/>
-
-### 💡 About Me
-> I believe in shipping pragmatic solutions with strong DX and maintainable systems.
-
-- 🚀 Full Stack Developer Scholar @ SAP, building enterprise-grade cloud features.
-- 🏗️ Backend-focused: Java, Spring Boot, REST APIs, microservices, auth.
-- 🧰 Product mindset: performance, reliability, observability, and developer productivity.
-- 🌏 Currently building a SaaS platform to empower local businesses & startups.
-- 🤝 Open to collaboration, mentorship, and contributions in SaaS & open source.
+<p align="center">
+  <a href="https://linkedin.com/in/nileshkr17"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white"/></a>
+  <a href="https://medium.com/@nileshkr1706"><img src="https://img.shields.io/badge/Medium-000000?style=flat-square&logo=medium&logoColor=white"/></a>
+  <a href="mailto:nileshkr1706@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+  <img src="https://komarev.com/ghpvc/?username=nileshkr17&style=flat-square&color=blueviolet&label=views"/>
+</p>
 
 ---
 
-### 🛠️ Tech Stack
-- Backend: Java, Spring Boot, REST, Microservices  
-- Frontend: React, JavaScript, Tailwind CSS, Vite  
-- Databases: MongoDB, MySQL, SAP HANA  
-- DevOps/Tools: Git, Jenkins, Docker, Postman, JWT, Firebase
+I work on backend systems at SAP — identity infrastructure, event-driven pipelines, multi-tenant auth at enterprise scale. Java, Spring Boot, Kafka, OAuth 2.0 is the day job. React, Vite, IndexedDB, and LLMs is what I reach for when building my own things.
+
+Currently finishing **DocLib** — an offline-first PDF library PWA with annotations, in-document search, and a cloud sync tier coming next. Everything runs in the browser. No server required until you want sync.
+
+M.Tech Software Engineering, BITS Pilani (2026).
 
 ---
 
-### 🎯 Branding Highlights
-- Crafting resilient backend services with clean boundaries and clear SLIs/SLOs.
-- Bias for action: iterate fast, measure impact, and document decisions.
-- UX for developers: thoughtful APIs, clear errors, and great docs.
+### Work
+
+**SAP** — Backend Engineer, Scholar Program &nbsp;`2024 – present`
+
+Identity infrastructure across SuccessFactors Recruiting and CX Sales Cloud. Zero-trust auth systems, Kafka-driven sync pipelines, multi-tenant microservices. OAuth 2.0, JWT, RBAC, MFA, SAP Customer Data Cloud.
 
 ---
 
-### 🎃 Hacktoberfest
-I’m welcoming Hacktoberfest contributions across my repositories this year.
+### Projects
 
-- Issues labeled “hacktoberfest” and “good first issue” are beginner friendly.  
-- How to contribute:
-  1. Pick an open issue with the “hacktoberfest” label
-  2. Comment to get assigned
-  3. Open a PR referencing the issue
+**[DocLib](https://doclib-pwa.netlify.app)** — Offline PDF library &nbsp;`React · Vite · Dexie.js · pdfjs · PWA`
 
-Quick link to find Hacktoberfest-labeled issues under my account:  
-https://github.com/search?q=user%3Anileshkr17+label%3Ahacktoberfest+state%3Aopen&type=issues
+Stores and reads PDFs entirely in IndexedDB. Annotations, in-PDF search, Web Share API, reading progress, service worker precaching the full pdf.js engine for true offline use. Cloud sync in progress.
+
+**VendorIQ.AI** — Invoice automation &nbsp;`Node.js · Kafka · LangChain · RAG`
+
+Event-driven pipeline — Gmail ingestion → OCR → MongoDB. RAG layer for natural language querying over financial records.
 
 ---
 
-### 🚩 Featured Projects
-- 🎬 ReactShowTime (PWA)  
-  A movie ticket booking app with Auth0 authentication and downloadable tickets. Built with React, TailwindCSS, and JSON Server.
+### Stack
 
-- ⛓️ Web 3.0 – Blockchain using JS  
-  A simplified blockchain engine in Node.js & Express.js demonstrating decentralization, mining, and conflict resolution.
-
-- 🚀 SkillSetGo (SaaS Platform - WIP)  
-  AI-powered learning platform for blue-collar skill development in India. Features automated video generation, role-based access, and PWA support.
-
----
-
-### 🏆 Accomplishments
-- Contributor: SAP SuccessFactors Recruiting Management  
-  MFA integration, candidate authentication, Gigya policies, custom APIs
-- Technical Content Writer: GeeksforGeeks  
-  Articles on CSP MUI, React, and DSA
-- Builder: SkillSetGo (SaaS with monetization potential)
-- Learning Path: Spring Boot + Microservices + AWS
+```
+Backend       Java · Spring Boot · Node.js · Kafka · REST · gRPC
+Auth          OAuth 2.0 · OIDC · JWT · RBAC · MFA · Zero-Trust
+AI            LangChain · RAG · vector search · LLM APIs
+Frontend      React · Vite · Tailwind · Framer Motion · PWA
+Databases     MongoDB · PostgreSQL · Redis
+Cloud         AWS · Docker · Kubernetes · Supabase · Railway
+Observability ELK · Kibana · Grafana · OpenLens
+```
 
 ---
 
-### 🌐 Connect
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white)](https://linkedin.com/in/nileshkr17)
-[![GitHub](https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white)](https://github.com/nileshkr17)
-[![GeeksforGeeks](https://img.shields.io/badge/GeeksforGeeks-2F8D46?logo=geeksforgeeks&logoColor=white)](https://www.geeksforgeeks.org/author/nileshkr17/)
-
----
-
-> 🧑‍💻 Exploring backend-heavy and product-engineering roles. Let’s build something impactful together!
-
----
-
-## ✨ GitHub Stats
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=nileshkr17&show_icons=true&theme=tokyonight" alt="GitHub Stats"/>
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com/?user=nileshkr17&theme=tokyonight" alt="GitHub Streak"/>
-  <br/>
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nileshkr17&layout=compact&theme=tokyonight" alt="Top Languages"/>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nileshkr17&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
+  <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nileshkr17&theme=tokyonight&hide_border=true" />
 </div>
