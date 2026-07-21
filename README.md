@@ -74,6 +74,5 @@ Observability ELK · Kibana · Grafana · OpenLens
 ---
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=nileshkr17&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true" />
   <img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=nileshkr17&theme=tokyonight&hide_border=true" />
 </div>
